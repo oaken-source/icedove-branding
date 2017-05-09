@@ -4,7 +4,7 @@ set -eu
 
 pkgname=icedove
 pkgver=38.6.0
-pkgrel=1
+pkgrel=2
 
 srcdir=src
 distdir=${pkgname}-${pkgver}
