@@ -1,0 +1,4 @@
+
+# release tarballs
+*.tar.xz
+*.tar.xz.sig
