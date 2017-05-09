@@ -1,0 +1,4 @@
+icedove/fix-installdir.patch
+icedove/no-dynamic-nss-softokn.patch
+icedove/fix-branding-in-migration-wizard-and-the-addon-manag.patch
+iceowl/Change-extension-s-name-to-Iceowl.patch
