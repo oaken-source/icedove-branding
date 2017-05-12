@@ -18,8 +18,8 @@ index ae6dbd2..f71d848 100644
      <em:id>@XPI_EM_ID@</em:id>
 -    <em:name>Lightning</em:name>
 +    <em:name>Iceowl</em:name>
-     <em:version>@LIGHTNING_VERSION@</em:version> <!-- BuildID=@GRE_BUILDID@ -->
-     <em:description>An integrated calendar for Thunderbird</em:description>
+     <em:version>@LIGHTNING_VERSION@</em:version> <!-- BuildID=@MOZ_BUILDID@ -->
+     <em:description>Integrated Calendaring &amp; Scheduling for your Email client</em:description>
  #ifdef LIGHTNING_PRERELEASE_VERSION
 diff --git a/calendar/locales/en-US/chrome/calendar/timezones.properties b/calendar/locales/en-US/chrome/calendar/timezones.properties
 index f15d3ab..ee96858 100644
@@ -29,7 +29,7 @@ index f15d3ab..ee96858 100644
  
  # extension:
  extensions.calendar-timezones@mozilla.org.name=Timezone Definitions for Mozilla Calendar
--extensions.calendar-timezones@mozilla.org.description=Timezone definitions required by Sunbird and Lightning
+-extensions.calendar-timezones@mozilla.org.description=Timezone definitions required by Lightning
 +extensions.calendar-timezones@mozilla.org.description=Timezone definitions required by Lightning and Iceowl
  extensions.calendar-timezones@mozilla.org.creator=Mozilla Calendar Project
  
@@ -43,7 +43,7 @@ index 3c61d82..2089f1c 100644
  
  # addon description:
 -extensions.{e2fda1a4-762b-4020-b5ad-a41df1933103}.name=Lightning
--extensions.{e2fda1a4-762b-4020-b5ad-a41df1933103}.description=An integrated calendar for Thunderbird
+-extensions.{e2fda1a4-762b-4020-b5ad-a41df1933103}.description=Integrated Calendaring & Scheduling for your Email client
 -extensions.{e2fda1a4-762b-4020-b5ad-a41df1933103}.creator=Mozilla Calendar Project
 +extensions.{e2fda1a4-762b-4020-b5ad-a41df1933103}.name=Iceowl
 +extensions.{e2fda1a4-762b-4020-b5ad-a41df1933103}.description=An integrated calendar for Icedove

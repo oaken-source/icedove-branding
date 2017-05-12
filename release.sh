@@ -3,7 +3,7 @@
 set -eu
 
 pkgname=icedove
-pkgver=45.5.0
+pkgver=52.1
 pkgrel=1
 
 srcdir=src
